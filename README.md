@@ -1,7 +1,6 @@
-## curso-platzi-react-avanzado ⚛️
+Readme Generate File
+## Description
 
-**¡Sígueme en Youtube para más contenido de React y Javascript!** 👉 https://www.youtube.com/midudev
+This is a readme generator file that will create a readme file for your project. It will ask you a series of questions and then create a readme file for you.       
 
-**¡Sígueme en Twitch para streams sobre desarrollo web!** 👉 https://www.twitch.tv/midudev
-
-Repositorio con el código del [Curso Avanzado de React de Platzi](https://platzi.com/cursos/react-avanzado/)
+## Table of Contents
